@@ -2,7 +2,7 @@
 
 Paste C, Python, or JavaScript code and get an instant plain-English breakdown — powered by AI, completely free.
 
-**[→ Try it live]([https://your-project.vercel.app](https://ai-code-explainer-admz.vercel.app/))** *(replace with your actual Vercel URL after deploying)*
+**[→ Try it live] [https://ai-code-explainer-admz.vercel.app/]**
 
 ---
 
